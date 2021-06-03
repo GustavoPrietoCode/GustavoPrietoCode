@@ -25,8 +25,9 @@
 [![Oracle](img/tech_icons/oracle.svg)](#-my-tech-background)&nbsp;
 ### Tools
 [![Git](img/tech_icons/git.svg)](#-my-tech-background)&nbsp;
-[![Vscode](img/tech_icons/vscode.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/tech_icons/github.svg)](#-my-tech-background)&nbsp;
+[![Vscode](img/tech_icons/vscode.svg)](#-my-tech-background)&nbsp;
+
 <!-- [![Linux](img/tech_icons/linux.svg)](#-my-tech-background)&nbsp; -->
 <!-- [![Eclipse](img/tech_icons/eclipse.svg)](#-my-tech-background) -->
 <!-- [![Docker](img/tech_icons/docker.svg)](#-my-tech-background)&nbsp; -->
