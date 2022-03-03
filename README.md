@@ -1,7 +1,7 @@
 ### Hi there 👋👋 I'm Gustavo Prieto
 
 ## 👦🏻 About me
-- 🎓 **I'm currently studying web development.**
+- 🎓 **Frontend web developer.**
 - 💓 **I love...**
   - 🎶 Rock Music 🤘
   - 🎞️ Movies and I'm addicted to tv series
